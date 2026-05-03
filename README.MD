@@ -1,4 +1,4 @@
-# Unity RL Hide-and-Seek (Teleporting Agents)
+# Unity RL Tag (Teleporting Agents)
 
 ![Demo](Media/training.gif)
 
